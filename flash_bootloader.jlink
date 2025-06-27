@@ -1,0 +1,5 @@
+Device nRF52833_xxAA
+loadfile bootloader.hex
+r
+g
+exit
