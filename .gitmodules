@@ -10,3 +10,6 @@
 [submodule "trackball-bootloader"]
 	path = trackball-bootloader
 	url = git@github.com:efogdev/trackball-bootloader.git
+[submodule "zmk-pmw3610-driver"]
+	path = zmk-pmw3610-driver
+	url = git@github.com:efogdev/zmk-pmw3610-driver.git
