@@ -19,3 +19,6 @@
 [submodule "endgame-trackball-bootloader"]
 	path = endgame-trackball-bootloader
 	url = git@github.com:efogtech/endgame-trackball-bootloader.git
+[submodule "zmk-axis-clamper"]
+	path = zmk-axis-clamper
+	url = git@github.com:efogdev/zmk-axis-clamper.git
