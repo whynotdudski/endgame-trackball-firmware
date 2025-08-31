@@ -22,3 +22,6 @@
 [submodule "zmk-axis-clamper"]
 	path = zmk-axis-clamper
 	url = git@github.com:efogdev/zmk-axis-clamper.git
+[submodule "zmk-input-processor-report-rate-limit"]
+	path = zmk-input-processor-report-rate-limit
+	url = git@github.com:efogdev/zmk-input-processor-report-rate-limit.git
