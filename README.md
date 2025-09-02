@@ -22,7 +22,6 @@ Look for `build/zephyr/zmk.uf2` — it's your firmware.
 
 | Feature             | Comment                                                                                                                                                                                                           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Limit BLE to 125 Hz | In case of unreliable connection or undesired delays, you may want to limit BLE report rate from the default value of 250 Hz. To do this, set `CONFIG_ZMK_INPUT_PROCESSOR_REPORT_RATE_LIMIT_DEFAULT` to `8` msec. |
 | ToDo                | …                                                                                                                                                                                                                 |
 
 
