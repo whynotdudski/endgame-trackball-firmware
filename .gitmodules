@@ -25,3 +25,6 @@
 [submodule "zmk-input-processor-report-rate-limit"]
 	path = zmk-input-processor-report-rate-limit
 	url = git@github.com:efogdev/zmk-input-processor-report-rate-limit.git
+[submodule "zmk-ec11-ish-driver"]
+	path = zmk-ec11-ish-driver
+	url = git@github.com:efogdev/zmk-ec11-ish-driver.git
