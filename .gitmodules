@@ -28,3 +28,6 @@
 [submodule "zmk-ec11-ish-driver"]
 	path = zmk-ec11-ish-driver
 	url = git@github.com:efogdev/zmk-ec11-ish-driver.git
+[submodule "zmk-report-rate-limit"]
+	path = zmk-report-rate-limit
+	url = git@github.com:efogdev/zmk-report-rate-limit.git
