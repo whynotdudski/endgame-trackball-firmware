@@ -18,12 +18,10 @@ west build -s app -b efogtech_trackball_0 -S studio-rpc-usb-uart -S zmk-usb-logg
 
 Look for `build/zephyr/zmk.uf2` — it's your firmware.
 
-### How to…
+### Troubleshooting
 
-| Feature             | Comment                                                                                                                                                                                                           |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ToDo                | …                                                                                                                                                                                                                 |
-
+1. Flash the [debug firmware](https://nightly.link/efogtech/endgame-trackball-config/workflows/build/debug/firmware.zip)
+2. [See your logs](https://zmk.dev/docs/development/usb-logging) via USB
 
 ### Also see
 1. Parent repo: https://github.com/efogtech/endgame-trackball
