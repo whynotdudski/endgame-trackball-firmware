@@ -20,8 +20,8 @@ Look for `build/zephyr/zmk.uf2` — it's your firmware.
 
 ### Troubleshooting
 
-1. Flash the [debug firmware](https://nightly.link/efogtech/endgame-trackball-config/workflows/build/debug/firmware.zip)
-2. [See your logs](https://zmk.dev/docs/development/usb-logging) via USB
+1. Flash the [debug firmware](https://github.com/efogtech/endgame-trackball-config/tree/debug).
+2. [Check out your logs](https://zmk.dev/docs/development/usb-logging) via USB.
 
 ### Also see
 1. Parent repo: https://github.com/efogtech/endgame-trackball
