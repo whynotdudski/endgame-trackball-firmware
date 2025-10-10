@@ -31,3 +31,7 @@
 [submodule "zmk-report-rate-limit"]
 	path = zmk-report-rate-limit
 	url = git@github.com:efogdev/zmk-report-rate-limit.git
+[submodule "zmk-auto-hold"]
+	path = zmk-auto-hold
+	url = git@github.com:efogdev/zmk-auto-hold.git
+	branch = main
